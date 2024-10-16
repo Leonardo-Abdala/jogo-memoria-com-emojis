@@ -4,7 +4,7 @@
 
 ## :rocket: Descrição do projeto
 
-Jogo da memória utilizando emojis como os desenhos das cartas. Projeto faz parte do desafio de código da DIO.
+Jogo da memória utilizando emojis como os desenhos das cartas. Projeto faz parte do desafio de código da [DIO](https://dio.me).
 
 ## :books: Modificações
 
